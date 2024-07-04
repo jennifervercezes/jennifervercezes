@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennifervercezes&hide=contribs,prs&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennifervercezes&show_icons=true&include_all_commits=true&hide=contribs,prs&rank_icon=github&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennifervercezes&layout=compact&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennifervercezes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennifervercezes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
