@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennifervercezes&show_icons=true&include_all_commits=true&hide=contribs,prs&rank_icon=github&theme=dracula)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennifervercezes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennifervercezes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+> ###  [MY LINKEDIN](https://www.linkedin.com/in/jennifervercezes/)
+![](https://media.licdn.com/dms/image/v2/D5616AQEKlvGFDuwviA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738389633841?e=1750896000&v=beta&t=VBHtmlG3XC5H9A-7DK1RrnuirvFFdurESW2IWR6ZmmM)
